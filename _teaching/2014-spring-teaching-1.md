@@ -14,8 +14,6 @@ location: "City, Country"
  <ul>
    <li><font face="Arial" size="2"><a href="http://www.brown.edu/Departments/Engineering/Courses/En221/announcements.html">Announcements</a></font></li>
  </ul>
- <font face="Arial" size="2">
- <ul>
    <li><font face="Arial" size="2"><a href="http://www.brown.edu/Departments/Engineering/Courses/En221/Homework/homework.html">Homework</a></font></li>
    <li><a href="http://www.brown.edu/Departments/Engineering/Courses/En221/Projects/projects.html">Design Projects</a>
    </li>
