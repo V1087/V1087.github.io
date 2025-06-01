@@ -8,7 +8,7 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-<li><font face="Arial" size="2"><a href="http://www.brown.edu/Departments/Engineering/Courses/En221/announcements.html">Announcements(<a href="https://github.com/V1087/V1087.github.io/blob/master/assets/Development%20and%20materials%20characteristics%20of%20fly%20ash-%20slag-based%20grout%20for%20use%20in%20sulfate-rich%20environments.pdf">PDF - 1.6 MB</a>)</p></a></font></li>
+<li><font face="Arial" size="2"><a href="http://www.brown.edu/Departments/Engineering/Courses/En221/announcements.html">Announcements  (<a href="https://github.com/V1087/V1087.github.io/blob/master/assets/Development%20and%20materials%20characteristics%20of%20fly%20ash-%20slag-based%20grout%20for%20use%20in%20sulfate-rich%20environments.pdf">PDF - 1.6 MB</a>)</p></a></font></li>
    <li><font face="Arial" size="2"><a href="http://www.brown.edu/Departments/Engineering/Courses/En221/Homework/homework.html">Homework</a></font></li>
    <li><a href="http://www.brown.edu/Departments/Engineering/Courses/En221/Projects/projects.html">Design Projects</a>
    </li>
