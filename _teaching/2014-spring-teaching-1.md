@@ -8,7 +8,7 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-<li><font face="Arial" size="2"><a href="http://www.brown.edu/Departments/Engineering/Courses/En221/announcements.html">Announcements</a></font></li>
+<li><font face="Arial" size="2"><a href="http://www.brown.edu/Departments/Engineering/Courses/En221/announcements.html">Announcements</a></font></li>(<a href="">PDF - 1.6 MB</a>)</p>
    <li><font face="Arial" size="2"><a href="http://www.brown.edu/Departments/Engineering/Courses/En221/Homework/homework.html">Homework</a></font></li>
    <li><a href="http://www.brown.edu/Departments/Engineering/Courses/En221/Projects/projects.html">Design Projects</a>
    </li>
